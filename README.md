@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu
 - 👀 I’m interested in Software Architect and product development
-- 🌱 I’m currently working in Cloud Storage and Cloud Compute.
+- 🌱 I’m currently working in Cloud Storage and Compute.
 - 💞️ I’m looking to collaborate on Cloud.
 - 📫 How to reach me: himanshusdec8@gmail.com
